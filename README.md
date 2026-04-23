@@ -29,13 +29,8 @@ El análisis se centra en la transformación de datos crudos en **pronósticos a
 
 
 ### Puntos Clave del Análisis:
-1. **Picos de Demanda:** Se identificaron los días exactos de la semana donde la carga de usuarios aumenta un **X%** (rellena con tu dato).
+1. **Picos de Demanda:** Se identificaron los días exactos de la semana donde la carga de usuarios aumenta.
 2. **Estacionalidad:** El modelo detectó patrones repetitivos que permiten una planificación con 7 días de antelación.
 3. **Calidad de Datos:** Implementación de un pipeline de limpieza que redujo el ruido en los datos históricos.
 
----
-
-## 📂 Estructura del Proyecto
-* `Sprint 4.ipynb`: Notebook detallado con el análisis estadístico y modelado.
-* `data/`: Conjunto de datos sobre el comportamiento de usuarios.
 
